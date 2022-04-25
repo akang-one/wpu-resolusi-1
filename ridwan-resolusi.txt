@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya Ridwan dari Garut
+
+Resolusi saya:
+- belajar Git dan Github
+- belajar PHP Framework
